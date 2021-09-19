@@ -1,0 +1,13 @@
+C:\Users\Wevilbear\source\repos\Age\Age\bin\Debug\netcoreapp3.1\Age.exe
+C:\Users\Wevilbear\source\repos\Age\Age\bin\Debug\netcoreapp3.1\Age.deps.json
+C:\Users\Wevilbear\source\repos\Age\Age\bin\Debug\netcoreapp3.1\Age.runtimeconfig.json
+C:\Users\Wevilbear\source\repos\Age\Age\bin\Debug\netcoreapp3.1\Age.runtimeconfig.dev.json
+C:\Users\Wevilbear\source\repos\Age\Age\bin\Debug\netcoreapp3.1\Age.dll
+C:\Users\Wevilbear\source\repos\Age\Age\bin\Debug\netcoreapp3.1\Age.pdb
+C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.AssemblyInfoInputs.cache
+C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.AssemblyInfo.cs
+C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.csproj.CoreCompileInputs.cache
+C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.dll
+C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.pdb
+C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.genruntimeconfig.cache
