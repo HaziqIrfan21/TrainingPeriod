@@ -6,3 +6,9 @@ Console app 2
 
 Stack
 -Push / pop / Clear Stack
+
+Age
+-seal Class
+-Static Constructor
+-Class overloading
+-Calculator
