@@ -16,3 +16,6 @@ Age
 Employee
 -Using struct
 -Display timezone difference
+
+WeeklyAssignment2
+-Weekly Test 2
