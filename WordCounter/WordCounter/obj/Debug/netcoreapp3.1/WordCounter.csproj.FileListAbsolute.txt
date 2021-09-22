@@ -1,0 +1,13 @@
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.exe
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.deps.json
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.runtimeconfig.json
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.runtimeconfig.dev.json
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.dll
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.pdb
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.AssemblyInfoInputs.cache
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.AssemblyInfo.cs
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.dll
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.pdb
+C:\Users\Wevilbear\source\repos\WordCounter\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Wevilbear\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Wevilbear\\.nuget\\packages"
+    ]
+  }
+}
