@@ -1,0 +1,14 @@
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\bin\Debug\netcoreapp3.1\HCFLCM.exe
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\bin\Debug\netcoreapp3.1\HCFLCM.deps.json
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\bin\Debug\netcoreapp3.1\HCFLCM.runtimeconfig.json
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\bin\Debug\netcoreapp3.1\HCFLCM.runtimeconfig.dev.json
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\bin\Debug\netcoreapp3.1\HCFLCM.dll
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\bin\Debug\netcoreapp3.1\HCFLCM.pdb
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\obj\Debug\netcoreapp3.1\HCFLCM.csproj.AssemblyReference.cache
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\obj\Debug\netcoreapp3.1\HCFLCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\obj\Debug\netcoreapp3.1\HCFLCM.AssemblyInfoInputs.cache
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\obj\Debug\netcoreapp3.1\HCFLCM.AssemblyInfo.cs
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\obj\Debug\netcoreapp3.1\HCFLCM.csproj.CoreCompileInputs.cache
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\obj\Debug\netcoreapp3.1\HCFLCM.dll
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\obj\Debug\netcoreapp3.1\HCFLCM.pdb
+C:\Users\Wevilbear\source\repos\HCFLCM\HCFLCM\obj\Debug\netcoreapp3.1\HCFLCM.genruntimeconfig.cache
