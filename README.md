@@ -33,4 +33,9 @@ Maximum of 2 repeated characters.
 Supported special characters:
 ! @ # $ % ^ & * ( ) + = _ - { } [ ] : ; " ' ? < > , .
 
+PrimeNumber
+-write a program to find a prime number between 1 to 100 , then reverse the number if the reverse number is also a prime one , then store the number
+
+
+
 
