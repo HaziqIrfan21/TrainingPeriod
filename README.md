@@ -39,7 +39,7 @@ PrimeNumber
 DayToSecond
 -find out the total number of days and sessions you have joined till now then convert the total time into seconds.
 
-Using boxing and unboxing concept
+-Using boxing and unboxing concept
 
 CheckHex
 -write a program  that determines whether a string is a valid hex code .A hex code must begin with a pound key # and is exactly 6 characters in length. Each character must be a digit from 0-9 or an alphabetic character from A-F. All alphabetic characters may be uppercase or lowercase.
@@ -48,6 +48,9 @@ CheckHex
 HCFLCM
 -Write C# program to find HCF and LCM of two numbers
 
+WordCounter
+-Write a C# program to create a function to input a string and count number of words are present  in the string , then  print them separately
 
+- write a C# program to find out if  a given word is present in given line , if yes then find out its occurrence
 
 
