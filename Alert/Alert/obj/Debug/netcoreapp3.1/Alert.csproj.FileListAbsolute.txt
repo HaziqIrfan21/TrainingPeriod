@@ -1,0 +1,14 @@
+C:\Users\Wevilbear\source\repos\Alert\Alert\bin\Debug\netcoreapp3.1\Alert.exe
+C:\Users\Wevilbear\source\repos\Alert\Alert\bin\Debug\netcoreapp3.1\Alert.deps.json
+C:\Users\Wevilbear\source\repos\Alert\Alert\bin\Debug\netcoreapp3.1\Alert.runtimeconfig.json
+C:\Users\Wevilbear\source\repos\Alert\Alert\bin\Debug\netcoreapp3.1\Alert.runtimeconfig.dev.json
+C:\Users\Wevilbear\source\repos\Alert\Alert\bin\Debug\netcoreapp3.1\Alert.dll
+C:\Users\Wevilbear\source\repos\Alert\Alert\bin\Debug\netcoreapp3.1\Alert.pdb
+C:\Users\Wevilbear\source\repos\Alert\Alert\obj\Debug\netcoreapp3.1\Alert.csproj.AssemblyReference.cache
+C:\Users\Wevilbear\source\repos\Alert\Alert\obj\Debug\netcoreapp3.1\Alert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wevilbear\source\repos\Alert\Alert\obj\Debug\netcoreapp3.1\Alert.AssemblyInfoInputs.cache
+C:\Users\Wevilbear\source\repos\Alert\Alert\obj\Debug\netcoreapp3.1\Alert.AssemblyInfo.cs
+C:\Users\Wevilbear\source\repos\Alert\Alert\obj\Debug\netcoreapp3.1\Alert.csproj.CoreCompileInputs.cache
+C:\Users\Wevilbear\source\repos\Alert\Alert\obj\Debug\netcoreapp3.1\Alert.dll
+C:\Users\Wevilbear\source\repos\Alert\Alert\obj\Debug\netcoreapp3.1\Alert.pdb
+C:\Users\Wevilbear\source\repos\Alert\Alert\obj\Debug\netcoreapp3.1\Alert.genruntimeconfig.cache
