@@ -1,0 +1,14 @@
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\bin\Debug\netcoreapp3.1\DelegateEventTimer.exe
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\bin\Debug\netcoreapp3.1\DelegateEventTimer.deps.json
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\bin\Debug\netcoreapp3.1\DelegateEventTimer.runtimeconfig.json
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\bin\Debug\netcoreapp3.1\DelegateEventTimer.runtimeconfig.dev.json
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\bin\Debug\netcoreapp3.1\DelegateEventTimer.dll
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\bin\Debug\netcoreapp3.1\DelegateEventTimer.pdb
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\obj\Debug\netcoreapp3.1\DelegateEventTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\obj\Debug\netcoreapp3.1\DelegateEventTimer.AssemblyInfoInputs.cache
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\obj\Debug\netcoreapp3.1\DelegateEventTimer.AssemblyInfo.cs
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\obj\Debug\netcoreapp3.1\DelegateEventTimer.csproj.CoreCompileInputs.cache
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\obj\Debug\netcoreapp3.1\DelegateEventTimer.dll
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\obj\Debug\netcoreapp3.1\DelegateEventTimer.pdb
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\obj\Debug\netcoreapp3.1\DelegateEventTimer.genruntimeconfig.cache
+C:\Users\Wevilbear\source\repos\DelegateEventTimer\DelegateEventTimer\obj\Debug\netcoreapp3.1\DelegateEventTimer.csproj.AssemblyReference.cache
