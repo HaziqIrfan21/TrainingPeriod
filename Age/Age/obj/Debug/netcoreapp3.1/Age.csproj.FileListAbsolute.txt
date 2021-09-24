@@ -11,3 +11,4 @@ C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.csproj.CoreC
 C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.dll
 C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.pdb
 C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.genruntimeconfig.cache
+C:\Users\Wevilbear\source\repos\Age\Age\obj\Debug\netcoreapp3.1\Age.csproj.AssemblyReference.cache
