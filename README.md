@@ -54,4 +54,5 @@ WordCounter
 
 - write a C# program to find out if  a given word is present in given line , if yes then find out its occurrence
 
-**Homework Qns**
+DelegateEventTimer
+-Timer with events and raising events
