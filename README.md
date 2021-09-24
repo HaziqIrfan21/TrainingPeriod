@@ -56,3 +56,6 @@ WordCounter
 
 DelegateEventTimer
 -Timer with events and raising events
+
+EarthQuake
+-Calculate probability of earthquake and tsunami
