@@ -12,6 +12,7 @@ Age
 -Static Constructor
 -Class overloading
 -Calculator
+-delegate and events
 
 Employee
 -Using struct
