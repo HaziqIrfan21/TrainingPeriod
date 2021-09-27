@@ -59,3 +59,6 @@ DelegateEventTimer
 
 EarthQuake
 -Calculate probability of earthquake and tsunami
+
+Weekly Assignment 3
+
