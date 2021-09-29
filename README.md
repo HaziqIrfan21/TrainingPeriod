@@ -62,3 +62,5 @@ EarthQuake
 
 Weekly Assignment 3
 
+ExceptionHandling
+- Divide multiply exception handling
