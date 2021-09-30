@@ -1,0 +1,14 @@
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\bin\Debug\netcoreapp3.1\LibraryGeneric.exe
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\bin\Debug\netcoreapp3.1\LibraryGeneric.deps.json
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\bin\Debug\netcoreapp3.1\LibraryGeneric.runtimeconfig.json
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\bin\Debug\netcoreapp3.1\LibraryGeneric.runtimeconfig.dev.json
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\bin\Debug\netcoreapp3.1\LibraryGeneric.dll
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\bin\Debug\netcoreapp3.1\LibraryGeneric.pdb
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\obj\Debug\netcoreapp3.1\LibraryGeneric.csproj.AssemblyReference.cache
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\obj\Debug\netcoreapp3.1\LibraryGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\obj\Debug\netcoreapp3.1\LibraryGeneric.AssemblyInfoInputs.cache
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\obj\Debug\netcoreapp3.1\LibraryGeneric.AssemblyInfo.cs
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\obj\Debug\netcoreapp3.1\LibraryGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\obj\Debug\netcoreapp3.1\LibraryGeneric.dll
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\obj\Debug\netcoreapp3.1\LibraryGeneric.pdb
+C:\Users\Wevilbear\source\repos\LibraryGeneric\LibraryGeneric\obj\Debug\netcoreapp3.1\LibraryGeneric.genruntimeconfig.cache
