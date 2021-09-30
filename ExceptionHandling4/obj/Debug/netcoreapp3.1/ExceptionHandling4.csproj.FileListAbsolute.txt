@@ -1,0 +1,13 @@
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\bin\Debug\netcoreapp3.1\ExceptionHandling4.exe
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\bin\Debug\netcoreapp3.1\ExceptionHandling4.deps.json
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\bin\Debug\netcoreapp3.1\ExceptionHandling4.runtimeconfig.json
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\bin\Debug\netcoreapp3.1\ExceptionHandling4.runtimeconfig.dev.json
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\bin\Debug\netcoreapp3.1\ExceptionHandling4.dll
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\bin\Debug\netcoreapp3.1\ExceptionHandling4.pdb
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\obj\Debug\netcoreapp3.1\ExceptionHandling4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\obj\Debug\netcoreapp3.1\ExceptionHandling4.AssemblyInfoInputs.cache
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\obj\Debug\netcoreapp3.1\ExceptionHandling4.AssemblyInfo.cs
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\obj\Debug\netcoreapp3.1\ExceptionHandling4.csproj.CoreCompileInputs.cache
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\obj\Debug\netcoreapp3.1\ExceptionHandling4.dll
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\obj\Debug\netcoreapp3.1\ExceptionHandling4.pdb
+C:\Users\Wevilbear\source\repos\ExceptionHandling4\ExceptionHandling4\obj\Debug\netcoreapp3.1\ExceptionHandling4.genruntimeconfig.cache
