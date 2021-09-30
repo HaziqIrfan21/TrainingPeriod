@@ -68,3 +68,6 @@ ExceptionHandling
 
 Event handler
 - Write a class which has a function which can take any function as an argument. Execute the function passed as an argument and Print the nameof the function to be executed.
+
+Event handler2
+- Create a class which has an array with some values. Constitute a function which can eveluate whether a user provided parameter is present in the array using Predicate delegate.
