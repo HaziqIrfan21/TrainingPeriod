@@ -64,3 +64,7 @@ Weekly Assignment 3
 
 ExceptionHandling
 - Divide multiply exception handling
+
+
+Event handler
+- Write a class which has a function which can take any function as an argument. Execute the function passed as an argument and Print the nameof the function to be executed.
