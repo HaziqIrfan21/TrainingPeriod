@@ -73,4 +73,9 @@ Event handler2
 - Create a class which has an array with some values. Constitute a function which can eveluate whether a user provided parameter is present in the array using Predicate delegate.
 
 ConsoleApp3
--Generic Example
+- Generic Example
+
+ExceptionHandling4
+- ExceptionHandling with array
+
+
