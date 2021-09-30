@@ -1,0 +1,14 @@
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\bin\Debug\netcoreapp3.1\EventHandler1.exe
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\bin\Debug\netcoreapp3.1\EventHandler1.deps.json
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\bin\Debug\netcoreapp3.1\EventHandler1.runtimeconfig.json
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\bin\Debug\netcoreapp3.1\EventHandler1.runtimeconfig.dev.json
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\bin\Debug\netcoreapp3.1\EventHandler1.dll
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\bin\Debug\netcoreapp3.1\EventHandler1.pdb
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\obj\Debug\netcoreapp3.1\EventHandler1.csproj.AssemblyReference.cache
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\obj\Debug\netcoreapp3.1\EventHandler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\obj\Debug\netcoreapp3.1\EventHandler1.AssemblyInfoInputs.cache
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\obj\Debug\netcoreapp3.1\EventHandler1.AssemblyInfo.cs
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\obj\Debug\netcoreapp3.1\EventHandler1.csproj.CoreCompileInputs.cache
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\obj\Debug\netcoreapp3.1\EventHandler1.dll
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\obj\Debug\netcoreapp3.1\EventHandler1.pdb
+C:\Users\Wevilbear\source\repos\EventHandler1\EventHandler1\obj\Debug\netcoreapp3.1\EventHandler1.genruntimeconfig.cache
