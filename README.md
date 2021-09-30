@@ -88,3 +88,6 @@ LibraryGeneric
 4. 7% to Mutual Funds after paying Health insurance. 
 * Now calculate the total amount of money you will get after all these investments in a year.
 use exception handling to show the error msg. and create  generic class to store the data
+
+GenericsExample
+- Generics interface template
