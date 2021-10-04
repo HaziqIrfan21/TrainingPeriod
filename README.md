@@ -91,3 +91,6 @@ use exception handling to show the error msg. and create  generic class to store
 
 GenericsExample
 - Generics interface template
+
+Threading
+- Threading template
