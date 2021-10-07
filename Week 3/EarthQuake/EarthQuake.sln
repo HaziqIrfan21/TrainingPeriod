@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthQuake", "EarthQuake\EarthQuake.csproj", "{1C3CC245-A10F-417E-B5B3-BA98F7F9E667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C3CC245-A10F-417E-B5B3-BA98F7F9E667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3CC245-A10F-417E-B5B3-BA98F7F9E667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3CC245-A10F-417E-B5B3-BA98F7F9E667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3CC245-A10F-417E-B5B3-BA98F7F9E667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8BE72E-74B7-4BC7-A5CE-A520BB2917EA}
+	EndGlobalSection
+EndGlobal
